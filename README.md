@@ -1,53 +1,19 @@
 # Mohanad Ayman
 
-Full-Stack AI Engineer focused on building production AI systems, backend infrastructure, intelligent retrieval pipelines, and full-stack applications.
-
-## What I Work On
-
-- AI-powered systems
-- Backend architecture
-- Retrieval and recommendation systems
-- LLM integrations
-- Full-stack product engineering
-- Infrastructure and deployment
-- UI/UX-driven applications
+Full-Stack AI Engineer building production AI systems, backend infrastructure, intelligent retrieval pipelines, websites, mobile applications, and UI/UX-driven products.
 
 ## Tech Stack
+Python • FastAPI • PostgreSQL • Supabase • React • Next.js • Flutter • TypeScript • Docker • Linux • OpenAI APIs • Vector Search • AI Systems
 
-### Backend
-- Python
-- FastAPI
-- Node.js
-- PostgreSQL
-- Supabase
+## What I Build
+- AI-powered platforms and workflows
+- Full-stack web applications
+- Mobile applications
+- UI/UX-driven products
+- Backend infrastructure and APIs
+- Retrieval and recommendation systems
+- Production AI systems and integrations
+- Deployment and server infrastructure
 
-### AI & Infrastructure
-- OpenAI APIs
-- Gemini APIs
-- Vector Search
-- Retrieval-Augmented Generation (RAG)
-- Docker
-- Linux Infrastructure
-
-### Frontend & Mobile
-- React
-- Next.js
-- Flutter
-- TypeScript
-
-## Featured Work
-
-### XFEDE AI Platform
-Built and deployed AI-powered systems including backend infrastructure, retrieval pipelines, mobile applications, and intelligent recommendation systems.
-
-### Trust-Centric Cybersecurity Framework
-Bachelor graduation project focused on trust-based AI decision systems for cybersecurity and intrusion detection.
-
-## Currently Interested In
-
-- Applied AI
-- AI infrastructure
-- Full-stack systems
-- Search and recommendation systems
-- Startup engineering
-- Product architecture
+## Current Focus
+Building scalable AI systems, full-stack applications, intelligent retrieval architectures, and startup-focused products.
