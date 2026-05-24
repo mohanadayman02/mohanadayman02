@@ -1,16 +1,53 @@
-## Hi there 👋
+# Mohanad Ayman
 
-<!--
-**mohanadayman02/mohanadayman02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack AI Engineer focused on building production AI systems, backend infrastructure, intelligent retrieval pipelines, and full-stack applications.
 
-Here are some ideas to get you started:
+## What I Work On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AI-powered systems
+- Backend architecture
+- Retrieval and recommendation systems
+- LLM integrations
+- Full-stack product engineering
+- Infrastructure and deployment
+- UI/UX-driven applications
+
+## Tech Stack
+
+### Backend
+- Python
+- FastAPI
+- Node.js
+- PostgreSQL
+- Supabase
+
+### AI & Infrastructure
+- OpenAI APIs
+- Gemini APIs
+- Vector Search
+- Retrieval-Augmented Generation (RAG)
+- Docker
+- Linux Infrastructure
+
+### Frontend & Mobile
+- React
+- Next.js
+- Flutter
+- TypeScript
+
+## Featured Work
+
+### XFEDE AI Platform
+Built and deployed AI-powered systems including backend infrastructure, retrieval pipelines, mobile applications, and intelligent recommendation systems.
+
+### Trust-Centric Cybersecurity Framework
+Bachelor graduation project focused on trust-based AI decision systems for cybersecurity and intrusion detection.
+
+## Currently Interested In
+
+- Applied AI
+- AI infrastructure
+- Full-stack systems
+- Search and recommendation systems
+- Startup engineering
+- Product architecture
